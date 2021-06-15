@@ -1,0 +1,14 @@
+{
+  "name": "studious-palm-tree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/koushik-ms/studious-palm-tree",
+  "author": "Koushik MS <koushik.ms@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@jacobmischka/ical-merger": "^6.0.2"
+  },
+  "scripts": {
+    "start": "node \"node_modules/\\@jacobmischka/ical-merger/dist/server.js\"",
+  },
+}
