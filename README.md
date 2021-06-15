@@ -1,3 +1,5 @@
+[![Run on repl.it](https://repl.it/badge/github/koushik-ms/studious-palm-tree)](https://repl.it/github/koushik-ms/studious-palm-tree}&ref=button)
+
 # A Studious Palm Tree
 
 To get started:
