@@ -7,8 +7,5 @@
   "license": "MIT",
   "dependencies": {
     "@jacobmischka/ical-merger": "^6.0.2"
-  },
-  "scripts": {
-    "start": "node \"node_modules/\\@jacobmischka/ical-merger/dist/server.js\"",
-  },
+  }
 }
